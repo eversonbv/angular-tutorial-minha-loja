@@ -23,6 +23,12 @@ export const products = [
     name: 'Phone Standard',
     price: 299,
     description: ''
+  },
+  {
+    id: 4,
+    name: 'Geladeira Brastemp',
+    price: 1399,
+    description: 'Geladeira de grande porte com duas portas'
   }
 ];
 
